@@ -30,3 +30,15 @@
 
 # Debug files
 *.dSYM/
+
+# Custom Ignore Common Files
+*.pdf
+*.ppt*
+*.doc*
+*.xls*
+*.zip
+*.rar
+*.tar*
+*.gz*
+__*
+_*.
